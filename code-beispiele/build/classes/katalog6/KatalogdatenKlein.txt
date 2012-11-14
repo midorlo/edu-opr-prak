@@ -1,8 +1,0 @@
-Buch;Asterix der Gallier;Uderzo;1967;6.50
-Buch;"Asterix bei den
-Olympischen Spielen";Uderzo;1970;6.80
-CD;Soundtrack zu Asterix der Gallier;1988
-Buch;Asterix bei den Goten;Uderzo;1972 ;6.90
-Buch;Asterix und der Seher;Uderzo";1973;6.90
-Buch;Asterix der Gallier;Uderzo;1965;6.7.0
-Buch;"Asterix; Ein gallischer ""Held""";N.N.;1988;17.50
